@@ -4,17 +4,17 @@
       This project is a straightforward calculator application created using Python's `CustomTkinter` library. The calculator supports fundamental arithmetic operations, trigonometric functions, logarithmic calculations, and more. The graphical user interface (GUI) is crafted with a sleek, modern design, featuring custom color schemes and button styles.
 
 **Features**
-  1- Basic Arithmetic Operations:
+        1- Basic Arithmetic Operations:
                                   Perform addition, subtraction, multiplication, and division.
-  2- Trigonometric Functions:
+        2- Trigonometric Functions:
                                   Compute sine, cosine, and tangent values (in degrees).
-  3- Logarithmic Calculation:
+        3- Logarithmic Calculation:
                                   Calculate the logarithm with base 2.
-  4- Power Functions:
+        4- Power Functions:
                                   Includes square and square root, as well as cube root.
-  5- Error Handling:
+        5- Error Handling:
                                   Provides alerts for syntax errors and division by zero errors.
-  6- Memory Functions:
+        6- Memory Functions:
                                   Offers features like clearing the entry and backspace for corrections.
 
 **Dependencies/ Library Used:**
