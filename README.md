@@ -38,7 +38,8 @@
 
 **Customization**
 
-      The color schemes, button text, and layout can be easily customized by adjusting the parameters in the `customtkinter.CTkButton` and `customtkinter.CTkEntry` widgets.
+      The color schemes, button text, and layout can be easily customized by adjusting the parameters 
+      in the `customtkinter.CTkButton` and `customtkinter.CTkEntry` widgets.
 
 **Future Enhancements**
       Introducing more advanced mathematical functions.
